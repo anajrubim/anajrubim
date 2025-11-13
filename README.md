@@ -1,7 +1,8 @@
 <h2 align="left">Olá👋! Meu nome é Ana e eu sou uma desenvolvedora front-end!</h2>
-
-  ![Anaj Rubim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajrubim&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajrubim&layout=compact&theme=dracula)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anajrubim&show_icons=true&theme=dracula&card_width=400" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajrubim&layout=compact&theme=dracula&card_width=400" height="150" alt="languages graph" />
+</div>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
