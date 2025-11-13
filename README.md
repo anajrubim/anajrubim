@@ -1,10 +1,7 @@
 <h2 align="left">Olá👋! Meu nome é Ana e eu sou uma desenvolvedora front-end!</h2>
 
-
-<div align="center">
   ![Anaj Rubim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajrubim&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajrubim&layout=compact&theme=dracula)
-</div>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
